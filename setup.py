@@ -1,6 +1,6 @@
 from setuptools import setup, find_packages
 
-version = '0.1'
+version = '0.13'
 
 testing_extras = ['nose', 'coverage']
 docs_extras = ['Sphinx']
